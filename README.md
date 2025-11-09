@@ -324,8 +324,8 @@ Dự án này được phát hành dưới MIT License. Xem file [LICENSE](LICEN
 
 **Nguyễn Anh Tài**
 - MSSV: 23010584
-- Email: [your-email@example.com]
-- GitHub: [@yourusername](https://github.com/yourusername)
+- Email:23010584@st.phenikaa-uni.edu.vn
+- GitHub: TaiNguyenAnh08
 
 ## 🙏 Acknowledgments
 
